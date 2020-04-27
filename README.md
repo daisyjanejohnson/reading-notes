@@ -4,7 +4,7 @@
 
 ### *Table of Contents*:
   
-  1. [Link]()
+  1. [Introduction to HTML and Java Script](class-01.md)
   1. [Link]()
   1. [Link]()
   1. [Link]()
