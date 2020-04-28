@@ -28,7 +28,7 @@
 
 ## Introducing CSS
 
-* The key to understanding how CSS is works is to imagine there is an invisible box around every HTML element.
+* The key to understanding how CSS works is to imagine there is an invisible box around every HTML element.
 * CSS works by associating rules with HTML elements. These rules govern how the content of specific elements should be displayed. A CSS rule contains two parts: 
   1. **Selector** indicates which element the rule applies to. The same rule can apply to multiple elements if you separate the element names with commas.
   1. **Declaration** indicates how the elements reffered to in the selector should be styled. Declarations are split into two parts (property and value) and are separated by a colon.
