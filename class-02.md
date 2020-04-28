@@ -3,19 +3,19 @@
 ## HTML Chapter 2 Text
 
 * Headings
-  * HTML has six "levels" of headings ranging from `<h1>` which is the largest and is used for main headings to `<h6>` which is the smallest
+  * HTML has six "levels" of headings ranging from `<h1>` which is the largest and is used for the main headings to `<h6>` which is the smallest
 * Paragraphs
   * To create a paragraph surround the text with `<p></p>' tags.
 * Bold and Italics
   * By enclosing words with `<b></b>` you can make words bold.
   * By enclosing words with `<i></i>` you can make words italic.
 * Superscript and Subscript
-  * The `<sup>`element is used to contain characters that should be superscript like suffixes of dates, or mathematical concepts like raising a number to a power.
+  * The `<sup>`element is used to contain characters that should be superscripts like suffixes of dates, or mathematical concepts like raising a number to a power.
   * The `<sub>` element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas.
 * Line Breaks and Horizontal Rules
   * `<br />` adds a line break inside the middle of a paragraph.
   * `<hr />` creates a break between themes, such as a change of topic in a book.
-  * `<strong>` indicates that the content has strong importance. By default most browsers show the contents of this element as bold.
+  * `<strong>` indicates that the content has a strong importance. By default most browsers show the contents of this element as bold.
   * `<em>` element indicates emphasis that subtly changes a sentence. By default browsers will show the contents of this element in italics.
 * Quotations
   * `<blockquote>` element is used for longer quotes that take up an entire paragraph. `<p>` is inside of this element.
