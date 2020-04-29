@@ -18,7 +18,7 @@
 
 * Box Dimensions are set using width and height.
 * **min-width** is the smallest size a box can be displayed when the browser is narrow.
-* **max-width** is the largest size a box can be displyted when the browser window is wide.
+* **max-width** is the largest size a box can be displayed when the browser window is wide.
 * The **overflow** property tells the browser what to do if the content contained within the box is larger than the box. It can have one of two values:
   1. **hidden** = this property simply hides away any content that does not fit in the box.
   1. **scroll** = this property adds a scrollbar to the box so that users can scroll to see the missing content.
@@ -42,6 +42,6 @@
 * Every value is JS can be treated as if it were true or false due to type coercion.
 * **Unary Operator** returns a result with just one operand. Here you can see if the statement is checking for the presence of the element.
 * Loops check a condition. If it returns true, a code block will run. Then the condition will be checked again if it still returns true, the code block will run again. It repeats until the condition returns false. There are three common types of loops:
-  1. For: Runs code a specific number of times. Condition is usually a counter that tells the amount of times the loop runs.
+  1. For: Runs code a specific number of times. Condition is usually a counter that tells the number of times the loop runs.
   2. While: if you don't know how many times a code should run. The condition can be something other than a counter. It will loop until true.
   3. Do While: The do..while loop is similar to the while loop with one key difference. It will always run the statements inside the curly braces at least once, even if the condition evaluates to false.
