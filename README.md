@@ -6,7 +6,7 @@
   
   1. [Introduction to HTML and JavaScript](class-01.md)
   1. [HTML Text, CSS Introduction and Basic JavaScript Instructions](class-02.md)
-  1. [Link]()
+  1. [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
   1. [Link]()
   1. [Link]()
   1. [Link]()
