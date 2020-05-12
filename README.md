@@ -11,7 +11,7 @@
   1. [HTML Images, CSS Color and Text](class-05.md)
   1. [JS Object Literals, The DOM](class-06.md)
   1. [HTML Tables; JS Constructor Functions](class-07.md)
-  1. [Link]()
+  1. [Layout AGAIN](class-08.md)
   1. [Link]()
   1. [Link]()
   1. [Assorted Topics](class-11.md)
