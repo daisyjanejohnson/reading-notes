@@ -1,14 +1,14 @@
-#Docs for the HTML `<canvas> `Element & Chart.js
+# Docs for the HTML `<canvas> `Element & Chart.js
 
 ## Creating Stunning Animated Charts with Chart.js
 
-* Chart.js is a JavaScript plugin that uses HTML5's canvas element to draw a graph onto the page. It makes using all kinds of bar charts, line charts, pie charts and more, super easy.
+* Chart.js is a JavaScript plugin that uses HTML5's canvas element to draw a graph onto the page. It makes using all kinds of bar charts, line charts, pie charts, and more, super easy.
 
 ### Setting Up
 
 1. Download Chart.js
 1. Copy the Chart.min.js out of the unzipped folder and into the directory you'll be working in.
- 1. Then create a new html page and import the script.
+ 1. Then create a new HTML page and import the script.
 
  ### Drawing a Line Chart
 
@@ -83,7 +83,7 @@ var pieOptions = {
   * `clearRect(x, y, width, height)`
     Clears the specified rectangular area, making it fully transparent.
 
-* Drawing paths (a list of points, connected by segments of lines that can be different shapes, curved or not, of different width and of different color.)
+* Drawing paths (a list of points, connected by segments of lines that can be different shapes, curved or not, of different width and of a different color.)
   * `beginPath()`
     Creates a new path. Once created, future drawing commands are directed into the path and used to build the path up.
   * `Path methods`
