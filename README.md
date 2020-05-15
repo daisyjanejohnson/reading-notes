@@ -16,7 +16,7 @@
   1. [Link]()
   1. [Assorted Topics](class-11.md)
   1. [Docs for the HTML, Element & Chart.js](class-12.md)
-  1. [Link]()
+  1. [Local Storage](class-13.md)
   1. [Link]() 
   1. [Link]()
  
