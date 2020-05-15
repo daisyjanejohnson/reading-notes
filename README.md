@@ -17,7 +17,7 @@
   1. [Assorted Topics](class-11.md)
   1. [Docs for the HTML, Element & Chart.js](class-12.md)
   1. [Local Storage](class-13.md)
-  1. [Link]() 
-  1. [Link]()
+  1. [CSS Transforms, Transitions and Animations](class-14.md) 
+  1. [What Google Learned From Its Quest to Build the Perfect Team.](class-15.md)
  
  **Coding is awesome!**
